@@ -93,10 +93,34 @@ This portfolio distinguishes:
 
 Where production deployment, testing, or measurable control effectiveness is not supported by evidence, the project documentation says so directly.
 
+## Planned projects
+
+These projects are intentionally listed as planned work and are not yet represented as completed experience.
+
+### Log Monitoring and Alert Automation — Version 2
+
+A future upgrade of the existing Python/Bash project with configurable rules, structured JSON/CSV output, sample Apache logs, automated tests, incremental processing, rotation handling, scheduling examples, and automated quality checks.
+
+**Planned learning:** production-style Python structure, testing, configuration management, state handling, alert quality, Bash hardening, and continuous integration.
+
+### Power BI — GRC and Audit Readiness Dashboard
+
+A future portfolio dashboard using synthetic data to visualize control ownership, evidence collection, audit-readiness status, overdue remediation, control exceptions, vendor-risk findings, and policy-review dates.
+
+**Planned learning:** Power Query, data modelling, DAX, KPI design, drill-through reporting, audit metrics, and executive dashboard communication.
+
+### Tableau — IT Service Desk Operations Dashboard
+
+A future portfolio dashboard using synthetic service-desk data to explore ticket volume, backlog, priority, category, resolution time, first-contact resolution, escalation trends, and customer satisfaction.
+
+**Planned learning:** Tableau data preparation, calculated fields, parameters, filters, operational KPIs, interactive dashboards, and IT-service reporting.
+
 ## Next development priorities
 
-1. Build and publish a network discovery and segmentation assessment using the completed Nmap/Wireshark lab report.
-2. Improve the Python/Bash log-monitoring project with tests, configuration, structured output, and automation.
-3. Modernize older risk and policy repositories to remove implementation or compliance overclaims.
-4. Build a Power BI GRC and audit-readiness dashboard.
-5. Build a Tableau IT service-desk operations dashboard.
+1. Update the evidence-grounded master resume.
+2. Return to Career Ops with the updated resume and portfolio links.
+3. Later, build Log Monitoring and Alert Automation Version 2.
+4. Later, build the Power BI GRC and Audit Readiness Dashboard.
+5. Later, build the Tableau IT Service Desk Operations Dashboard.
+6. Build and publish the completed Nmap/Wireshark network assessment when ready.
+7. Modernize older risk and policy repositories before featuring them more prominently.
