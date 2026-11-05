@@ -42,6 +42,16 @@ This index helps recruiters and hiring teams find the strongest evidence for a p
 | [Interactive Greeting System](https://github.com/Cassandra-3/Interactive_greeting_system) | Python facial recognition, Flask/Jinja integration, PIR sensing, testing, team communication | Team academic capstone |
 | [Security Monitoring Sensor Design](https://github.com/Cassandra-3/Security-Monitoring-Sensor-Design) | Detection logic, tuning, metrics, process design | Individual academic design |
 
+## Planned portfolio development
+
+| Project | Intended evidence | Current status |
+|---|---|---|
+| Log Monitoring and Alert Automation — Version 2 | Configurable Python/Bash monitoring, structured output, tests, incremental processing, scheduling, CI | Planned; current Version 1 remains published |
+| Power BI GRC and Audit Readiness Dashboard | Synthetic control, evidence, remediation, exception, vendor-risk, and policy-review metrics | Planned; not yet completed |
+| Tableau IT Service Desk Operations Dashboard | Synthetic ticket, backlog, resolution, escalation, and satisfaction analysis | Planned; not yet completed |
+
+Planned projects are excluded from demonstrated-skills claims until implementation evidence is published.
+
 ## Evidence terminology
 
 - **Professional:** performed in paid employment or formal work placement.
