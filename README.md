@@ -5,7 +5,7 @@ Cybersecurity professional with experience spanning governance, risk and complia
 I am especially interested in work where security, technology, documentation, and stakeholder support overlap: translating requirements into usable controls, investigating technical evidence, improving operational processes, and helping people solve technology problems.
 
 **Career interests:** GRC, cybersecurity analysis, IT operations, IT audit, security compliance, technical support, risk, and security operations  
-**Location:** Ontario, Canada — open to remote work and relocation anywhere in Canada  
+**Location:** Ontario, Canada — open to on-site, hybrid, and remote roles; willing to relocate within Ontario or elsewhere in Canada  
 **LinkedIn:** [Cassandra Dsouza](https://www.linkedin.com/in/cassandradsouza54a784168/)  
 **GitHub:** [Cassandra-3](https://github.com/Cassandra-3)  
 **Portfolio website:** [cassandra-3.github.io](https://cassandra-3.github.io/)
