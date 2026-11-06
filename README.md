@@ -7,7 +7,8 @@ I am especially interested in work where security, technology, documentation, an
 **Career interests:** GRC, cybersecurity analysis, IT operations, IT audit, security compliance, technical support, risk, and security operations  
 **Location:** Ontario, Canada — open to remote work and relocation anywhere in Canada  
 **LinkedIn:** [Cassandra Dsouza](https://www.linkedin.com/in/cassandradsouza54a784168/)  
-**GitHub:** [Cassandra-3](https://github.com/Cassandra-3)
+**GitHub:** [Cassandra-3](https://github.com/Cassandra-3)  
+**Portfolio website:** [cassandra-3.github.io](https://cassandra-3.github.io/)
 
 ## Featured projects
 
@@ -115,12 +116,10 @@ A future portfolio dashboard using synthetic service-desk data to explore ticket
 
 **Planned learning:** Tableau data preparation, calculated fields, parameters, filters, operational KPIs, interactive dashboards, and IT-service reporting.
 
-## Next development priorities
+## Development roadmap
 
-1. Update the evidence-grounded master resume.
-2. Return to Career Ops with the updated resume and portfolio links.
-3. Later, build Log Monitoring and Alert Automation Version 2.
-4. Later, build the Power BI GRC and Audit Readiness Dashboard.
-5. Later, build the Tableau IT Service Desk Operations Dashboard.
-6. Build and publish the completed Nmap/Wireshark network assessment when ready.
-7. Modernize older risk and policy repositories before featuring them more prominently.
+1. Build Log Monitoring and Alert Automation Version 2 with configuration, structured output, tests, state handling, and automated quality checks.
+2. Create a Power BI GRC and Audit Readiness Dashboard using synthetic compliance data.
+3. Create a Tableau IT Service Desk Operations Dashboard using synthetic service-management data.
+4. Prepare the completed Nmap/Wireshark network assessment for publication.
+5. Continue reviewing older academic repositories so public claims remain evidence-grounded and clearly scoped.
